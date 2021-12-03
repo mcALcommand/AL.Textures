@@ -1,0 +1,15 @@
+{
+    "parent": "item/3dmodel/cookie_cligun/cookie_cligun",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -10, 0],
+			"translation": [3.25, 12.75, -2.75],
+			"scale": [3, 3, 3]
+		},
+		"firstperson_lefthand": {
+                        "rotation": [0, -10, 0],
+			"translation": [0.4, 12.75, -2.75],
+			"scale": [3, 3, 3]
+		}
+	}
+}

@@ -4,7 +4,8 @@
         "layer0": "minecraft:item/carrot_on_a_stick"
     },
     "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/3dmodel/reigastswordmode"}
+		{ "predicate": {"custom_model_data": 1}, "model": "item/3dmodel/reigastswordmode"},
+                { "predicate": {"custom_model_data": 2}, "model": "item/3dmodel/mecha_santa/summon_presents"}
 		
    ]
 }

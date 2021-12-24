@@ -1,0 +1,21 @@
+{
+    "parent": "minecraft:item/generated", 
+    "textures": {
+        "layer0": "minecraft:item/music_disc_11"
+    },
+    "overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "item/3dmodel/mecha_santa/mecha_santa_bottom"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/3dmodel/mecha_santa/mecha_santa_core"},
+                { "predicate": {"custom_model_data": 3}, "model": "item/3dmodel/mecha_santa/mecha_santa_arm_left"},
+                { "predicate": {"custom_model_data": 4}, "model": "item/3dmodel/mecha_santa/mecha_santa_arm_right"},
+                { "predicate": {"custom_model_data": 5}, "model": "item/3dmodel/mecha_santa/missile"},
+                { "predicate": {"custom_model_data": 6}, "model": "item/3dmodel/mecha_santa/spike_ball"},
+                { "predicate": {"custom_model_data": 7}, "model": "item/3dmodel/mecha_santa/mecha_santa_bottom_run"},
+                { "predicate": {"custom_model_data": 8}, "model": "item/3dmodel/mecha_santa/presents"},
+                { "predicate": {"custom_model_data": 9}, "model": "item/3dmodel/mecha_santa/snow_crystal"},
+                { "predicate": {"custom_model_data": 10}, "model": "item/3dmodel/mecha_santa/summon_presents"},
+                { "predicate": {"custom_model_data": 11}, "model": "item/3dmodel/mecha_santa/mecha_santa_core_phase2"}
+
+
+   ]
+}
